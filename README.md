@@ -22,7 +22,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/https://github.com/kikoyaja69/Scrap-Man)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 #### The Legacy Way
